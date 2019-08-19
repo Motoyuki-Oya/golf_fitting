@@ -4,7 +4,7 @@ body {
   }
   .is-dark {
     background-color: #F62459;
-    background-image: linear-gradient(rgba(25, 254, 136, 0.6),rgba(246, 36, 89, 0.6)),linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)), url('https://images.unsplash.com/photo-1440439307159-c3afc8a8e4ff?dpr=1&auto=format&crop=entropy&fit=crop&w=2000&h=1000&q=40');
+    background-image: linear-gradient(rgba(25, 174, 254, 0.6),rgba(190, 246, 36, 0.6)),linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)), url('https://images.unsplash.com/photo-1517257225266-3c82af13eae9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1512&q=80');
   }
   .nav {
     padding: 20px 0;
